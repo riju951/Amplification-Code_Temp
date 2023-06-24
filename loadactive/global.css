@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --main-font-tag-12px-regular: Poppins;
+
+  /* font sizes */
+  --main-font-tag-12px-regular-size: 12px;
+  --main-font-text-bold-14-size: 14px;
+  --font-size-3xs: 10px;
+  --main-font-h3-bold-18-size: 18px;
+
+  /* Colors */
+  --app-black-90: #22273c;
+  --dark-black-100: #15192c;
+  --app-black-70: #373d57;
+  --app-black-80: #2c3249;
+  --basic-white: #fff;
+  --app-black-50: #515873;
+  --app-black-20: #a3a8b8;
+  --app-secondary-turquoise: #53dbee;
+  --button-colors-primary: #7950ed;
+  --app-secondary-purple: #a787ff;
+
+  /* Gaps */
+  --gap-base: 16px;
+  --gap-9xs: 4px;
+  --gap-11xs: 2px;
+  --gap-xs: 12px;
+  --gap-7xs: 6px;
+  --gap-5xs: 8px;
+
+  /* Paddings */
+  --padding-base: 16px;
+  --padding-9xs: 4px;
+  --padding-5xs: 8px;
+  --padding-8xs: 5px;
+  --padding-xs: 12px;
+  --padding-12xs: 1px;
+  --padding-10xs: 3px;
+  --padding-7xs: 6px;
+  --padding-11xs: 2px;
+
+  /* border radiuses */
+  --br-9xs: 4px;
+  --br-5xs: 8px;
+  --br-5xl: 24px;
+}
